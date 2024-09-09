@@ -1,29 +1,31 @@
-# Node.js Design Patterns - Third-Edition
+# Node.js 디자인 패턴 바이블
 
-<a href="https://www.nodejsdesignpatterns.com"><img width="240" align="right" src="https://github.com/lmammino/lmammino/blob/master/nodejsdp.jpg?raw=true"></a>
+<img src="https://www.youngjin.com/images/book_cover/9788931464283.jpg" height="350px" style="border: 2px solid grey;">
 
-Node.js Design Patterns Third Edition (published by Packt), A book by Mario Casciaro and Luciano Mammino
+[Node.js 디자인 패턴 바이블(영진닷컴)](https://blog.naver.com/ydot/222302615292)
 
-### [🌎 Official website](https://www.nodejsdesignpatterns.com)
+『Node.js 디자인 패턴 바이블』는 효율적이고 강력한 Node.js 애플리케이션 구축에 필요한 디자인 패턴들을 한 권으로 정리한다. Node.js로 프로그래밍을 하는데 필요한 기초적인 개념을 시작으로 시작으로 웹 애플리케이션을 만드는데 사용할 수 있는 디자인 패턴까지, 직접 따라할 수 있는 예제와 모범 사례들을 통해 살펴본다.
 
+이 책에서는 견고한 서버사이드 애플리케이션을 만들기 위해 사용할 수 있는 Node.js 14의 모든 기능들을 확인할 뿐만 아니라, 개발자들이 Node.js를 사용한 프로젝트를 진행할 때 마주할 수 있는 비동기 제어나 백엔드와 프론트엔드의 통신, 분산 시스템 구축 같은 주제들을 다루며 이를 해결할 수 있는 다양한 이론과 패턴들을 살펴본다.
 
-## Solutions for exercises
+각 챕터는 디자인 패턴을 주제별로 나누어 상황에 따른 디자인 패턴과 이용 사례를 소개한다. 또한 설명에서 사용되었던 사례에 따라 실제 개발 환경에서 사용할 수 있는 다양한 라이브러리와 기술들을 소개하며 Node.js의 전체적인 생태계와 솔루션과 조명한다. Node.js를 현업 프로젝트에 사용하고 싶은 개발자나 Node.js가 작동하는 원리에 대해 자세하게 알고 싶었던 독자라면 완벽한 Node.js 애플리케이션을 만드는데 필요한 모든 지식을 갖출 수 있게 될 것이다.
 
-If you have completed one of the exercises and want to share your solution or if you are looking for ideas on how to solve one of the exercises, check out our [Exercises Solutions wiki page](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition/wiki/Node.js-Design-Patterns-Third-Edition---Exercise-Solutions).
+**저자** Mario Casciaro, Luciano Mammino  
+**역자** 김성원, 곽천웅  
+**발행일** 2021년 05월 20일  
+**크기** 188*257mm   
+**쪽수** 648쪽  
+**가격** 32,000원  
+**ISBN** 9788931464283  
 
+<br>
 
-## Discussion board
+## 💡실습용 예제 파일 & 소스 코드
+도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
+코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
 
-If you are currently reading the book and want to engage with other readers, we have created a [Node.js Design Patterns Discussion Board on GitHub](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition/discussions). You are welcome to join the community!
+<br>
 
-
-## Support this book
-
-A book is a work of art and passion. We invested a lot of our time and tried our best to create a great book and we hope we managed to give you something valuable with our efforts. If you enjoyed this book, here are some ways you can help us to spread the word and support our work:
-
-  - Leave a review on [Amazon.com](https://www.amazon.com/gp/product/1839214112) (or other Amazon stores), on [Packt.com](https://www.packtpub.com/product/node-js-design-patterns-third-edition/9781839214110) or on [GoodReads](https://www.goodreads.com/book/show/54518801-node-js-design-patterns---third-edition).
-  - Share the book's website on Social media ([Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Node.js%20Design%20Patterns%20if%20you%20want%20to%20take%20your%20%23Nodejs%20knowledge%20to%20the%20next%20level%3A%20&url=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2F), [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2F), [Share on Pinterest](http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2F&media=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2Fimg%2Fnode-js-design-patterns.jpg&description=Check%20out%20Node.js%20Design%20Patterns%20if%20you%20want%20to%20take%20your%20%23Nodejs%20knowledge%20to%20the%20next%20level%3A%20), [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2F&title=Check%20out%20Node.js%20Design%20Patterns%20if%20you%20want%20to%20take%20your%20%23Nodejs%20knowledge%20to%20the%20next%20level%3A%20), [Share on Tumblr](http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fwww.nodejsdesignpatterns.com%2F&t=Check%20out%20Node.js%20Design%20Patterns%20if%20you%20want%20to%20take%20your%20%23Nodejs%20knowledge%20to%20the%20next%20level%3A%20))
-  - Check out and follow this project on [Product Hunt](https://www.producthunt.com/posts/node-js-design-patterns-third-edition) and [Indie Hackers](https://www.indiehackers.com/product/node-js-design-patterns)
-  - Follow the authors on Twitter: [Mario Casciaro](https://twitter.com/mariocasciaro), [Luciano Mammino](https://twitter.com/loige)
-  
-THANK YOU ❤️
+## 💡문의 및 정오표
+- [문의](mailto:Support@youngjin.com)
+- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
