@@ -50,6 +50,6 @@ https://static.packt-cdn.com/downloads/9781839214110_ColorImages.pdf 에서 다�
 
 이 책에서는 여러 종류의 정보를 구분하는 여러 텍스트 스타일들을 볼 수 있습니다. 다음은 이러한 몇몇 스타일들과 예시 및 그 의미에 대한 설명입니다.
 
-텍스트 내의 코드 단어 표헌: server.listen(handle)
-경로명: src/app.js
-테스트 URL: http://localhost:8080
+텍스트 내의 코드 단어 표헌: server.listen(handle)  
+경로명: src/app.js  
+테스트 URL: http://localhost:8080  
