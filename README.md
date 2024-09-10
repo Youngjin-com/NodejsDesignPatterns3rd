@@ -28,10 +28,23 @@ NPM 버전 6 이상
 
 이 책을 최대한 활용하기 위해 아래의 지침에 따라 예제 코드 파일들과 이미지들을 다운로드할 수 있습니다.
 
+<br>
+
+
+## 💡예제 코드 파일 다운로드
+
+영진닷컴 홈페이지(www.youngjin.com) 에서 이 책의 예제 코드 파일을 다운로드할 수 있습니다. 책의 코드 버전은 nodejsdp.link/repo의 GitHub에서도 호스팅됩니다. 코드에 대한 업데이트가 있을 경우 기존 GitHub 저장소에 업데이트됩니다. 또한 https://github.com/PacktPublishing 에는 많은 책과 비디오, 카탈로그의 다른 코드들이 있습니다. 한번 방문해보세요!
+
+<br>
+
+
 ## 💡컬러 이미지 다운로드
 
 이 책에 사용된 스크린샷/다이어그램의 컬러 이미지가 있는 PDF 파일도 제공하고 있습니다.
-https://static.packt-cdn.com/downloads/9781839214110_ColorImages.pdf에서 다운로드할 수 있습니다.
+https://static.packt-cdn.com/downloads/9781839214110_ColorImages.pdf 에서 다운로드할 수 있습니다.
+
+<br>
+
 
 ## 💡이 책에서 사용된 규칙
 
@@ -40,15 +53,3 @@ https://static.packt-cdn.com/downloads/9781839214110_ColorImages.pdf에서 다�
 텍스트 내의 코드 단어 표헌: server.listen(handle)
 경로명: src/app.js
 테스트 URL: http://localhost:8080
-
-<br>
-
-## 💡실습용 예제 파일 & 소스 코드
-도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
-코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
-
-<br>
-
-## 💡문의 및 정오표
-- [문의](mailto:Support@youngjin.com)
-- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
